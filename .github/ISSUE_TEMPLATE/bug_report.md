@@ -16,15 +16,13 @@ Steps to reproduce the behavior:
 2. Which vendors is giving problems ( GA4, Matomo, Amplitude, Others specify )
 3. Share the site / url your're debugging ( if you don't want to share the link publicly, please keep filling the issue and share it via an email 
 
-
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+If applicable, add screenshots or a video to help explain your problem.
 
-**Desktop (please complete the following information):**
- - Browser: [e.g. Chrome]
+**Environment (please complete the following information):**
  - Browser [e.g. chrome, safari]
  - Version [e.g. 105.xx.xxx]
 
