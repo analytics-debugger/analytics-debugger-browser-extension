@@ -55,6 +55,18 @@ I'm  truly grateful for any assistance you can provide, whether it's a donation,
 If you are a vendor and want your tool integrated on Analytics Debugger, if you have any questions or if you would like to discuss potential collaborations, please feel free to contact us [https://www.thyngster.com/contact](https://www.thyngster.com/contact-me)
 
 # Change Log 
+## [v2.4.5] - 2023-09-17
+### Added
+  - Adobe Launch . Environments Switcher . Beta ( [ https://www.youtube.com/watch?v=rZ2SHlD03eQ](https://www.youtube.com/watch?v=rZ2SHlD03eQ)  )
+  - Initial Support for Adobe XDM ( [ https://www.youtube.com/watch?v=Io5gkhchN4k](https://www.youtube.com/watch?v=Io5gkhchN4k) )
+  - Adobe Launch . Data Elements State Report
+### Enhancements
+  - New Objects/JSON Explorer
+  - Now you can enable up to 6 vendors at the same time
+### Fixed
+  - Dark Mode - CSS Improvements
+  - Refactoring
+
 ## [v2.4.4] - 2023-09-05
 ### Added
 - Ingestion API
